@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-burclar",
+      "appliesTo": "burclar/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-burclar",
+      "appliesTo": "burclar/",
+      "type": "launch"
+    }
+  ]
+}
